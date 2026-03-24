@@ -54,5 +54,4 @@ I am available for freelance missions, architecture audits, and consulting. Let'
 
 * 🌐 **Portfolio:** [techomi-forge.com](https://techomi-forge.com/)
 * 💼 **LinkedIn:** [Antoine Choimet](https://www.linkedin.com/in/antoine-choimet)
-* ✉️ **Email:** achoimet@gmail.com
 * 🗣️ **Languages:** French (Native), English (Professional Working)
