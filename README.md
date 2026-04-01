@@ -13,7 +13,7 @@ You can check out my freelance portfolio and services at **[techomi-forge.com](h
 I help companies design, secure, and optimize their cloud environments. My core offerings include:
 
 * **Site Reliability Engineering (SRE):** Implementing Advanced Chaos Engineering (GameDays, Fault Injection), Observability, Incident Management, and reducing operational toil through custom tool development.
-* **Kubernetes Mastery:** Expert administration, seamless upgrades, dynamic scaling, and building custom controllers for EKS and GKE.
+* **Kubernetes Mastery:** Expert administration, seamless upgrades, dynamic scaling.
 * **Cloud Native Architecture & IaC:** Expert-level infrastructure provisioning using Terraform and Terragrunt across multi-cloud environments.
 * **Cost Optimization & Audits:** Deep-dive audits and FinOps mechanisms to optimize cloud spending, specifically on AWS (EKS/EC2).
 
@@ -42,8 +42,8 @@ I help companies design, secure, and optimize their cloud environments. My core 
 ## 🚀 Professional Highlights
 
 * **Steadybit (Staff SRE):** Maintained multi-cloud infrastructure (AWS/GCP), developed SaaS extensions in Golang, and ensured SOC2 compliance.
-* **ManoMano (Staff SRE):** Managed stability for massive Kubernetes clusters (>1000 pods) and created internal Golang/React products to gamify and assess service resiliency.
-* **Kereis / ex-CBP (Cloud Architect):** Designed and maintained on-premises and AWS cloud environments, drove Kubernetes and Hashicorp Nomad deployments, and built custom Golang CLIs to streamline application delivery.
+* **ManoMano (Staff SRE):** Created internal Golang/React products to gamify and assess service resiliency, and assist in cost efficiency of kubernetes clusters.
+* **Kereis / ex-CBP (Cloud Architect):** Designed and maintained AWS cloud environments, drove Kubernetes and Hashicorp Nomad deployments, and built custom Golang CLIs to streamline application delivery.
 * **SNCF Connect (Cloud Architect / SRE):** Acted as a transversal DevOps referent, built large-scale Jenkins pipelines, and executed Chaos Engineering initiatives.
 
 ---
